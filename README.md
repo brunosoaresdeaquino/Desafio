@@ -1,10 +1,9 @@
 ## Introdução
 
-Faaaaaaala, dev! Parabéns por chegar até aqui! 💜
-Chegou a hora de aplicar toda a teoria que você aprendeu até aqui colocando a mão na massa!
-Este é o momento de transformar conhecimento em ação, desenvolvendo um projeto que vai consolidar suas habilidades e te preparar um pouco mais para os desafios reais!
+Desenvolver uma página web com informações sobre um determinado local turístico. 🚀
+Este projeto é uma página web desktop com informações sobre um local turístico.
 
-Vamos lá? 🚀
+Esse é um dos desafios práticos da formação Fullstack, um de nossos conteúdos de especialização.
 
 ---
 
